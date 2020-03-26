@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name M5GOBaseLite-rescue)(type Legacy)(uri ${KIPRJMOD}/M5GOBaseLite-rescue.lib)(options "")(descr ""))
+)

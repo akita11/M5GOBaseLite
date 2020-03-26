@@ -1,0 +1,72 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue
+#
+DEF CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue CN 0 40 Y Y 1 L N
+F0 "CN" 0 150 42 H V L BNN
+F1 "CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue" 150 -200 42 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 210 -220 42 0 1 0 GND Normal 0 L B
+T 0 210 80 42 0 1 0 SCL/RX Normal 0 L B
+T 0 210 -20 42 0 1 0 SDA/TX Normal 0 L B
+T 0 210 -120 42 0 1 0 VDD Normal 0 L B
+P 2 1 0 0 0 -250 0 150 N
+P 2 1 0 0 0 150 200 150 N
+P 2 1 0 0 200 -250 0 -250 N
+P 2 1 0 0 200 150 200 -250 N
+X 1 1 -100 100 200 R 50 0 1 0 B IC
+X 2 2 -100 0 200 R 50 0 1 0 B I
+X 3 3 -100 -100 200 R 50 0 1 0 B I
+X 4 4 -100 -200 200 R 50 0 1 0 B I
+ENDDRAW
+ENDDEF
+#
+# CON_GROVEV-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue
+#
+DEF CON_GROVEV-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue CN 0 40 Y Y 1 L N
+F0 "CN" 0 150 42 H V L BNN
+F1 "CON_GROVEV-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue" 150 -200 42 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 210 -220 42 0 1 0 GND Normal 0 L B
+T 0 210 80 42 0 1 0 SCL/RX Normal 0 L B
+T 0 210 -20 42 0 1 0 SDA/TX Normal 0 L B
+T 0 210 -120 42 0 1 0 VDD Normal 0 L B
+P 2 1 0 0 0 -250 0 150 N
+P 2 1 0 0 0 150 200 150 N
+P 2 1 0 0 200 -250 0 -250 N
+P 2 1 0 0 200 150 200 -250 N
+X 1 1 -100 100 200 R 50 0 1 0 B IC
+X 2 2 -100 0 200 R 50 0 1 0 B I
+X 3 3 -100 -100 200 R 50 0 1 0 B I
+X 4 4 -100 -200 200 R 50 0 1 0 B I
+ENDDRAW
+ENDDEF
+#
+# RES0603-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue
+#
+DEF RES0603-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "RES0603-M5GObase_sub-eagle-import-M5GOBaseLite-rescue-M5GOBaseLite2-rescue-M5GOBaseLite-rescue" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 0 -85 40 N
+P 2 1 0 0 -85 40 -60 -40 N
+P 2 1 0 0 -60 -40 -35 40 N
+P 2 1 0 0 -35 40 -10 -40 N
+P 2 1 0 0 -10 -40 15 40 N
+P 2 1 0 0 15 40 40 -40 N
+P 2 1 0 0 40 -40 65 40 N
+P 2 1 0 0 65 40 90 -40 N
+P 2 1 0 0 90 -40 100 0 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
