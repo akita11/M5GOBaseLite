@@ -15,10 +15,10 @@ M5Stackの上部本体(Core)にとりつけて、以下のようなM5GO/Fireの�
    - 左右のNeoPixelの制御信号はGPIO15につながっています。UI Flowでは、Hardware→RGB LED、から使用できます
    - 各Groveコネクタのピン配置は以下の通り（中央寄りのVDDから近い側、遠い側の順）
      - PortA: GPIO21(SDA), GPIO22(SCL)
-     - PortB: GPIO26), GPIO36
+     - PortB: GPIO26, GPIO36
      - PortC: GPIO17(TXD2), GPIO16(RXD2)
      - PortD: GPIO35, GPIO34
-     - PortA: GPIO131, GPIO5
+     - PortA: GPIO13, GPIO5
 
 # 底面カバー
 
