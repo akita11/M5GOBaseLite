@@ -18,7 +18,7 @@ M5Stackの上部本体(Core)にとりつけて、以下のようなM5GO/Fireの�
      - PortB: GPIO26, GPIO36
      - PortC: GPIO17(TXD2), GPIO16(RXD2)
      - PortD: GPIO35, GPIO34
-     - PortA: GPIO13, GPIO5
+     - PortE: GPIO13, GPIO5
 
 # 底面カバー
 
